@@ -128,7 +128,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id_user`, `username`, `password`, `email`, `full_name`, `role`, `last_login`, `photo`, `created_at`, `is_active`) VALUES
-(1, 'admin', '$2y$10$J168lzLrvwvG8zkTm//gsePR3eqSJpaZo0iYp8mqlRUTij7.lB1nC', 'admin@gmail.com', 'Admin', 'admin', '2022-01-01 16:01:44', 'user_no_image.jpg', '2021-07-08 08:06:46', 1);
+(1, 'admin', '$2y$10$VvwOkWVDt3RqYSRPq2MqqucPTtttOhOIRMYKTDZbek32ozi7eHNHW', 'admin@gmail.com', 'Admin', 'admin', '2022-01-01 16:01:44', 'user_no_image.jpg', '2021-07-08 08:06:46', 1);
 
 --
 -- Indexes for dumped tables
